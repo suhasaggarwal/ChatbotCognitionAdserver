@@ -43,7 +43,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<runSuite>**/MainTestSuite.class</runSuite>
-		<springframework.version>4.2.0.RELEASE</springframework.version>
+		<springframework.version>5.2.22.RELEASE</springframework.version>
 		<jackson.version>2.5.3</jackson.version>
 
 
@@ -150,7 +150,7 @@
 <dependency>
     <groupId>org.json</groupId>
     <artifactId>json</artifactId>
-    <version>20171018</version>
+    <version>20180130</version>
 </dependency>
 
 <!--  
