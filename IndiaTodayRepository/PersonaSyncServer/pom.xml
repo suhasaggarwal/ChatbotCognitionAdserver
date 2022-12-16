@@ -61,7 +61,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<runSuite>**/MainTestSuite.class</runSuite>
-		<springframework.version>4.2.0.RELEASE</springframework.version>
+		<springframework.version>5.2.20.RELEASE</springframework.version>
 		<jackson.version>2.5.3</jackson.version>
 		<ehcache3.version>3.7.0</ehcache3.version>
 		<slf4j.version>1.7.25</slf4j.version>
